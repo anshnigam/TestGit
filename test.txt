@@ -1,1 +1,1 @@
-my first git test text file.
+testing. my first git test text file.
